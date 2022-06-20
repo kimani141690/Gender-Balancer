@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/elon/Code/C++/projects/group-gender-balancer/main.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+string
+-
+

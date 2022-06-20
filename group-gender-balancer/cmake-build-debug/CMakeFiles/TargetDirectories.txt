@@ -1,0 +1,3 @@
+/media/elon/Code/C++/projects/group-gender-balancer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/elon/Code/C++/projects/group-gender-balancer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/elon/Code/C++/projects/group-gender-balancer/cmake-build-debug/CMakeFiles/group_gender_balancer.dir
